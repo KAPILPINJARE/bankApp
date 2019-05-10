@@ -1,4 +1,4 @@
-package com.pspl.bankapp.model;//for push
+package com.pspl.bankapp.model;//for push//timepass
 
 import com.pspl.bankapp.specification.BankSpecification;
 
