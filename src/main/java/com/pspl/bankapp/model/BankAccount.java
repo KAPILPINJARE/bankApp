@@ -1,4 +1,4 @@
-package com.pspl.bankapp.model;
+package com.pspl.bankapp.model;//for push
 
 import com.pspl.bankapp.specification.BankSpecification;
 
